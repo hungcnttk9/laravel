@@ -1,4 +1,4 @@
-# Chạy composer và npm để cài đặt các gói cần thiết trong dự án
+# Cài đặt các gói cần thiết trong dự án
 composer install<br>
 npm install
 
